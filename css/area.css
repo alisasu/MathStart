@@ -1,0 +1,17 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 0;
+}
+
+.clr {
+    clear: both;
+}
+
+.draggable {
+    cursor: pointer;
+}
+
