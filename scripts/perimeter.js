@@ -108,7 +108,7 @@ document.addEventListener('mousedown', function(event) {
 
     // limit the new X within the window boundaries
     // there's no scroll here so it's simple
-    if (newX < 0) newX = 0;
+    //if (newX < 0) newX = 0;
     if (newX > document.documentElement.clientWidth - dragElement.offsetWidth) {
       //newX = document.documentElement.clientWidth - dragElement.offsetWidth;
     }
